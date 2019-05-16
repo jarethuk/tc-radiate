@@ -1,6 +1,6 @@
 ﻿var organizationSettings = {
     //The url that points to team city
-    teamCityUrl: 'https://teamcity-dev.assetz.capital/',
+    teamCityUrl: 'https://teamcity-dev.assetz.capital',
 
     //Only show builds for branches that satisfy the predicate
     branchFilter: function(branch) {
