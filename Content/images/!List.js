@@ -1,18 +1,7 @@
 ﻿Images.failure.CodeDefinedList = [
 
     // Local files from this folder. They will be used as fallback if an internet one didn't work:
-    'angry1.png',
-    'angry2.png',
-    'angry3.png',
-    'angry4.png',
-    'angry5.png',
-    'angry6.png',
-    'angry7.png',
-    'angry8.png',
-    'angry9.png',
-    'angry10.png',
-    'angry11.gif',
-    'fail-whatcha.jpg',
+    'angrydion.png',
 
     // URLs from internet work too (provided the server doesn't reject Cross-Domain requests - make sure it works first!):
     // 'http://img.picturequotes.com/2/3/2166/what-you-talkin-bout-willis-quote-1.jpg',
