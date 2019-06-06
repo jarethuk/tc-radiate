@@ -1,7 +1,7 @@
 ﻿Images.failure.CodeDefinedList = [
 
     // Local files from this folder. They will be used as fallback if an internet one didn't work:
-    'angry-dion.png',
+    'angry-dion.jpg',
 
     // URLs from internet work too (provided the server doesn't reject Cross-Domain requests - make sure it works first!):
     // 'http://img.picturequotes.com/2/3/2166/what-you-talkin-bout-willis-quote-1.jpg',
